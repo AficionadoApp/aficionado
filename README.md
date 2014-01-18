@@ -13,8 +13,9 @@ Our inspiration came from the story of ancient Chinese travelers who used to mak
 
 ###For Museums
 A captcha-inspired method of collecting meaningful tagging of images is built in to the app, providing a powerful tool for museums. Before a user can leave a comment, she is asked simple verification questions about the image she sees. For example: 
-* Q: "You are viewing a work by Keith Haring. Is this: a) a painting b) a print c) a sculpture d) none of these ?"
+* Q: "You are viewing a work by Keith Haring. Is this: a) a painting b) a print c) a sculpture d) none of these?"
 * Q: "Pick a mood to describe this work: Fascinating, Funny, Heartwarming, Aggravating, Frightening, Depressing"
+
 Imagine all the world's museums are able to aggreate powerful data and categorize their digital archives, at the same time that they encourage their visitors to engage meaningfully with the art works in their collections.
 
 ###Mockups
