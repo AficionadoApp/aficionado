@@ -1,13 +1,13 @@
-{ accession_number: 12345,
-  painting_name: 'pizza',
-  artist: 'bobjo',
-  comments: [
-    { time: '1/14/14 12:00PM',
-      name: 'fooman',
-      comment: 'This is the best art evar' },
-    { time: '1/12/14 2:00PM',
-      name: 'barzard',
-      comment: 'This is horrible art' }
+{ 'accession_number': '12345',
+  'painting_name': 'pizza',
+  'artist': 'bobjo',
+  'comments': [
+    { 'time': '1/14/14 12:00PM',
+      'name': 'fooman',
+      'comment': 'This is the best art evar' },
+    { 'time': '1/12/14 2:00PM',
+      'name': 'barzard',
+      'comment': 'This is horrible art' }
   ]
 }
 
