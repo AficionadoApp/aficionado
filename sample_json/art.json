@@ -1,6 +1,6 @@
 { accession_number: 12345,
   painting_name: 'pizza',
-  artist: 'bobjo'
+  artist: 'bobjo',
   comments: [
     { time: '1/14/14 12:00PM',
       name: 'fooman',
