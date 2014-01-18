@@ -19,4 +19,4 @@ A captcha-inspired method of collecting meaningful tagging of images is built in
 Imagine all the world's museums are able to aggreate powerful data and categorize their digital archives, at the same time that they encourage their visitors to engage meaningfully with the art works in their collections.
 
 ###Mockups
-![](https://raw.github.com/dkorac/aficionado/master/mockup/03-single-view.png)
+![](https://raw.github.com/dkorac/aficionado/master/mockup/mock-up.gif)
