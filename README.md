@@ -6,9 +6,9 @@ An open-source platform for users to learn more about works at museums and engag
 Users use a phone app to look up a piece of art (currently by using museum <a href="http://en.wikipedia.org/wiki/Accession_number_(library_science)" target="_blank">accession numbers</a>) and then view more information about the artist and the work itself, as well as a stream of comments left by other visitors. They are able to then join the discussion themselves and further explore the art.
 
 ###Apps
-Android: <a href="https://github.com/upopple/AfictionadoAndroid" target="_blank">https://github.com/upopple/AfictionadoAndroid</a>
+Android: <a href="https://github.com/AficionadoApp/AfictionadoAndroid" target="_blank">https://github.com/AficionadoApp/AficionadoAndroid</a>
 
-iOS: <a href="https://github.com/jamesjn/aficionado-ios" target="_blank">https://github.com/jamesjn/aficionado-ios</a>
+iOS: <a href="https://github.com/AficionadoApp/aficionado-ios" target="_blank">https://github.com/AficionadoApp/aficionado-ios</a>
 
 ###Background
 The project started as part of Code Montage’s <a href="https://www.codemontage.com/coder_day" target="_blank">Coder Day of Service</a>, and our current iteration focuses on the <a href="http://www.brooklynmuseum.org/" target="_blank">Brooklyn Museum</a> due to its open API and proximity to us in NYC. There is a wealth of data currently being underutilized by museums and libraries, and we wanted to provide an easy way for any visitor (and aspiring art aficionado) to explore the vast information and greater context behind any work of art.
